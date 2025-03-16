@@ -18,7 +18,7 @@ const MainContent = () => {
     "*अधिक माहितीसाठी भेट द्या:*\n" +
     "https://maps.app.goo.gl/AjSM95qsAGvcMSdp8\n\n" +
     "*आमच्या वेबसाइटला भेट द्या:*\n" +
-    "https://yourwebsite.com"
+    "https://venkatesh-super-market-venkatesh-softwares-projects.vercel.app/"
   );
   
 
